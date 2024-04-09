@@ -1,5 +1,5 @@
 {
-    "name": "ROS 2 Development Container",
+    "name": "fsw-ros2-ws-ng",
     "privileged": true,
     "remoteUser": "builder",
     "image": "ghcr.io/nathanaelgandhi/dev-image-ros2:main",
